@@ -1,8 +1,13 @@
 
 [
   {
-    "title": "Test Announcement",
+    "title": "Welcome",
     "date": "2026-06-08",
-    "message": "This is a message"
+    "message": "Your app is working correctly."
+  },
+  {
+    "title": "Test Update",
+    "date": "2026-06-08",
+    "message": "This is a proper JSON format."
   }
 ]
