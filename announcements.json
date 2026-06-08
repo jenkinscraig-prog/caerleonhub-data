@@ -1,14 +1,8 @@
+
 [
   {
-    "title": "Welcome to CaerleonHub33333",
-    "date": "8 June 2026333",
-    "message": "The app is now live333."
-  }
-]
-[
-  {
-    "title": "Welcome to CaerleonHub test message 2",
-    "date": "8 June 2026",
-    "message": "The app is now live. test 2"
+    "title": "Test Announcement",
+    "date": "2026-06-08",
+    "message": "This is a message"
   }
 ]
